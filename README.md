@@ -12,3 +12,6 @@ https://leot42.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ Lionel Townsend
+
+
+### ©️2019 Run Buddy, Inc 
